@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="logo.png" alt="Chess AI Logo" width="250"/>
+</p>
+
+
 # ♟️ Human vs AI Chess Game – Spring 2025
 
 This project is a simplified Chess game implemented in **Python** with a **Graphical User Interface (GUI)** using **Tkinter**, and an **AI opponent** powered by the **Minimax algorithm**. Developed as part of the *Artificial Intelligence* course (Spring 2025) at the **Department of Cyber Security**.
